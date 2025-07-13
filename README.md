@@ -1,4 +1,4 @@
-# 👋 Hi! I'm [Your Name]
+# 👋 Hi! I'm Julio
 
 ![Profile Photo](profile.jpg) <!-- Replace 'profile.jpg' with your photo -->
 
@@ -25,8 +25,8 @@ I'm a **Full Stack** developer in training, passionate about technology, innovat
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: [youremail@example.com](mailto:julio.maciel@cs.up.edu.br)
+- LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/julio-cezar-maciel-567ab8374/))
 - GitHub: [github.com/joqbay7](https://github.com/joqbay7)
 
 ---
