@@ -25,8 +25,8 @@ I'm a **Full Stack** developer in training, passionate about technology, innovat
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](mailto:julio.maciel@cs.up.edu.br)
-- LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/julio-cezar-maciel-567ab8374/))
+- Email: [julio.maciel@cs.up.edu.b](mailto:rjulio.maciel@cs.up.edu.b)
+- LinkedIn: [linkedin.com/in/julio-cezar-maciel-567ab8374/](https://www.linkedin.com/in/julio-cezar-maciel-567ab8374/)
 - GitHub: [github.com/joqbay7](https://github.com/joqbay7)
 
 ---
